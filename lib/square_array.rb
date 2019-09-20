@@ -5,5 +5,5 @@ def square_array(array)
     arr << array[counter]*array[counter]
     counter = counter + 1
 end
-#p arr
+p arr
 end
